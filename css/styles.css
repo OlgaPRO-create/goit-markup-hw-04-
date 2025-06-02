@@ -512,22 +512,15 @@ list-style: none;
   align-items: baseline;
   
 }
-
+/*  
 .footer-left {
   max-width: 264px;
   margin: 0;
-}
+}*/
 
 .footer-icon {
   fill: #f4f4fd;
 }
-/*
-.footer-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 120px;
-}*/
 
 .footer-icon-link:hover,
 .footer-icon-link:focus {

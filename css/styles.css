@@ -521,13 +521,13 @@ list-style: none;
 .footer-icon {
   fill: #f4f4fd;
 }
-
+/*
 .footer-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   gap: 120px;
-}
+}*/
 
 .footer-icon-link:hover,
 .footer-icon-link:focus {
@@ -538,6 +538,7 @@ list-style: none;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-right: 120px;
 }
 
 .footer-left-wrapper {

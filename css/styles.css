@@ -465,7 +465,7 @@ font-size: 18px;
   max-width: 1158px;
   display: flex;
   align-items: baseline;
-  gap: 120px;
+ margin-left: 0 auto;
 }
 .page-footer {
   padding: 100px 0;
@@ -526,10 +526,12 @@ list-style: none;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-right: 120px;
   
 }
 
 .footer-left-wrapper {
   max-width: 264px;
+  
   
 }

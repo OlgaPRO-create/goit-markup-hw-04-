@@ -507,10 +507,10 @@ list-style: none;
  .footer-right {
   width: 208px;
   height: 80px;
-  
+   display: flex;
   flex-direction: column;
   align-items: baseline;
-  margin-right: 120px;
+  
 }
 
 .footer-icon {
